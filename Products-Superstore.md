@@ -15,3 +15,6 @@ The reason is two fold. Having both the circles and the colours show the differe
 
 The secondary reason is for when there is negative profit. The circles cannot have a negative size, so that's when the colours are most important. 
 
+**Why have both sales and profit in one dashboard?**
+
+Not only is it more convenient and time efficient than building two seperate dashboards, it is important that the end user can quickly identify situations where one of their top selling sub-products may be unprofitable. 
