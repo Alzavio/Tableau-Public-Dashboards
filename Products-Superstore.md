@@ -5,6 +5,8 @@ This dashboard was created by @Alzavio using sample data. This dashboard aims to
 - How does current performance compare to the previous years' YTD by each category.
 - Which products (subcategories) make up the majority of sales.
 
+
+
 ### Logic dashboard design
 
 **Why use both colours and circles on the map to display the same data?**
